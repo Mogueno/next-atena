@@ -1,0 +1,19 @@
+{
+  "name": "next-atena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mogueno/next-atena.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mogueno/next-atena/issues"
+  },
+  "homepage": "https://github.com/Mogueno/next-atena#readme"
+}
